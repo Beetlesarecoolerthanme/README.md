@@ -53,9 +53,10 @@ interests ::
 ## ✦ links
 
 ```txt id="l35ghk"
-github    :: github.com/YOUR_USERNAME
-portfolio :: yourwebsite.com
-contact   :: your@email.com
+Strawpage : : https://beetlecorp.straw.page/
+Tiktok    : : @funglenoms
+Github    : : Beetlesarecoolerthanme
+I recommend reaching out to me on Pony Town where I'm active the most. 
 ```
 
 ---
