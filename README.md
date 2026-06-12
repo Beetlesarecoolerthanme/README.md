@@ -1,8 +1,8 @@
 <div align="center">
 
-# BEATRIX.D.exe
+# BEATRIX.D
 
-### ✦ digital creator • developer • explorer ✦
+### ✦ digital creator • drummer • mechanic ✦
 
 <img src="./assets/banner.png" width="100%">
 
