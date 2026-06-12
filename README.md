@@ -64,11 +64,8 @@ I recommend reaching out to me on Pony Town where I'm active the most.
 <div align="center">
 
 ✦
-```txt
 
 the internet is still a place for cool people making cool things...
-
-```
 
 ✦
 
