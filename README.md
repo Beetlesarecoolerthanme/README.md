@@ -40,35 +40,6 @@ interests ::
 
 ---
 
-## ✦ featured work
-
-```txt id="5nm0mq"
-◇ PROJECT_01
-A project you're proud of.
-
-◇ PROJECT_02
-Something creative or experimental.
-
-◇ PROJECT_03
-Your current obsession.
-```
-
----
-
-## ✦ github activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
 ## ✦ currently listening to
 
 ```txt id="8mch2t"
