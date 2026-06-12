@@ -64,8 +64,13 @@ I recommend reaching out to me on Pony Town where I'm active the most.
 <div align="center">
 
 ✦
+```txt
+[system]
 
-*" Don't be afraid to be yourself ."*
+the internet is still a place for cool people making cool things...
+
+█
+```
 
 ✦
 
