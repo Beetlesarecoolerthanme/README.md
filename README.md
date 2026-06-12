@@ -1,6 +1,6 @@
 <div align="center">
 
-# SOPHIA.WEB
+# BEATRIX. LOADING . . .
 
 ### ✦ digital creator • developer • explorer ✦
 
