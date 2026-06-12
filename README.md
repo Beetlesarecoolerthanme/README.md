@@ -22,7 +22,7 @@ status    :: online
 location  :: Eastern United States
 
 currently ::
-- Working on a big art project !
+- Working on a big writing project .
 
 interests ::
 - Roblox
@@ -35,12 +35,6 @@ interests ::
 ```
 
 ---
-
-## ✦ toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode" />
 
 </div>
 
