@@ -65,8 +65,7 @@ I recommend reaching out to me on Pony Town where I'm active the most.
 
 ✦
 
-the internet is still a place for cool people making cool things...
-
+*" ᴅᴏɴ ' ᴛ ʙᴇ ᴀꜰʀᴀɪᴅ ᴛᴏ ʙᴇ ʏᴏᴜʀꜱᴇʟꜰ . "*
 ✦
 
 </div>
