@@ -17,21 +17,21 @@
 ## ✦ about
 
 ```txt id="frg2ot"
-name      :: 
+name      :: Beetl 
 status    :: online
-location  :: somewhere between code and creativity
+location  :: Eastern United States
 
 currently ::
-- building projects
-- learning new things
-- collecting ideas
-- drinking too much coffee
+- Working on a big art project !
 
 interests ::
-- web development
-- design
-- open source
-- technology
+- Roblox
+- Minecraft
+- True Crime
+- Indie games
+- Pixelated games
+- Art
+- Music
 ```
 
 ---
