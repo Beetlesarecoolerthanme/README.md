@@ -1,6 +1,6 @@
 <div align="center">
 
-# BEATRIX. LOADING . . .
+# BEATRIX.D.exe
 
 ### ✦ digital creator • developer • explorer ✦
 
