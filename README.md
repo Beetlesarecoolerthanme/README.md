@@ -18,7 +18,7 @@
 
 ```txt id="frg2ot"
 name      :: Beetl 
-status    :: online
+status    :: offline
 location  :: Eastern United States
 
 currently ::
